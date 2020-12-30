@@ -1,0 +1,26 @@
+{
+  "name": "@smartdisk/otpkey",
+  "version": "0.0.0",
+  "description": "OTP KEY",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartdisk/otpkey.git"
+  },
+  "author": "OTPKEY.COM",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/smartdisk/otpkey/issues"
+  },
+  "homepage": "https://github.com/smartdisk/otpkey#readme",
+  "bin": {
+    "otpkey": "bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  }
+}
