@@ -3,7 +3,7 @@
 const chalk = require("chalk");
 const boxen = require("boxen");
 
-const greeting = chalk.white.bold("Hello OTP KEY !!!");
+const greeting = chalk.white.bold("Hello OTPKEY !!!");
 
 const boxenOptions = {
  padding: 1,
